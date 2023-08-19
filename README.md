@@ -41,7 +41,7 @@ mv foldername1/4.json foldername2/4.json</pre>
 `Ctrl+X далее Y далее script.sh`
 
 Запуск 
-<pre>./script.sh`
+<pre>./script.sh
 total 4
 drwxr-xr-x 1 Елена 197121 0 Aug  4 18:52 .
 drwxr-xr-x 1 Елена 197121 0 Aug  4 18:52 ..
