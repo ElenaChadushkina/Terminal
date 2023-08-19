@@ -57,7 +57,6 @@ drwxr-xr-x 1 Елена 197121 0 Aug  4 18:52 foldername6</pre>
 
 # **Linux terminal (GitBash) commands №2**
 
-Termial. HW_2
  1. Сделать папку dir_1 `mkdir dir_1`
  2. Зайти в папку dir_1 `cd dir_1`
  3. Создать папку inner_dir_1 mk_dir `inner_dir_1`
